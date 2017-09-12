@@ -1,0 +1,8 @@
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\bin\Debug\netcoreapp1.1\console.deps.json
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\bin\Debug\netcoreapp1.1\console.runtimeconfig.json
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\bin\Debug\netcoreapp1.1\console.runtimeconfig.dev.json
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\bin\Debug\netcoreapp1.1\console.dll
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\bin\Debug\netcoreapp1.1\console.pdb
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\obj\Debug\netcoreapp1.1\console.AssemblyInfo.cs
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\obj\Debug\netcoreapp1.1\console.dll
+C:\Users\mubarak.CTCLOCAL\Documents\Visual Studio 2017\Projects\console\Microservices\obj\Debug\netcoreapp1.1\console.pdb
